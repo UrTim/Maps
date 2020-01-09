@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="API_key">AIzaSyAV9V8O5RSfKOISo-SKzpTH0CSGA9kgBfM</string>
+    <string name="title_activity_map">Map</string>
+</resources>
